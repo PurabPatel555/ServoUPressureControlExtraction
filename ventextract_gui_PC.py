@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-VentExtract.ipynb
-Purab Patel
-
+VentExtract_gui_PC.py
 """
 import numpy as np
 from scipy.signal import find_peaks
